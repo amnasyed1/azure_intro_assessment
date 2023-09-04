@@ -19,7 +19,7 @@ Azure Blob Storage and Azure Files
 
 Azure App Service and Azure Functions
 
-**Service Description** 
+**Service Description:** 
 <p>Azure App Service is a platform as a service (PaaS) that allows one to build and host web applications, backends for mobile applications, and RESTful APIs by utilizing any programming language such as Python, .NET, and Java. The applications can be run and scaled in Linux and Window environments and it allows for automated deployments from any Git repository, Github and Azure DevOps. </p>
 <p>Azure Functions offers serverless computing, to allow users to write less code to deploy and run their code without managing and maintaining the server. Azure Functions automatically maintains and manages the infrastructure. </p>
 
