@@ -6,7 +6,7 @@ Azure Blob Storage and Azure Files
 
 
 **Service Description:**
-<p> Azure Blob Storage can be utilized for storing large amounts of unstructured data, including images, videos, and files, which can be accessed from anywhere at a large scale in block blobs. For example, it can store data for future backup and restore, archiving and disaster recovery. It also can store data that would be analyzed by an Azure hosted service. Anything in Blob Storage can be accessed through an Azure Storage client library, Azure Storage REST API, Azure Command-Line Interface (CLI), and Azure PowerShell. </p>
+<p> Azure Blob Storage can be utilized for storing large amounts of unstructured data, including images, videos, and files; which can be accessed from essentially anywhere at a large scale in block blobs. For example, it can store data for future backup and restore, archiving and disaster recovery. It also can store data that would be analyzed by an Azure hosted service. Anything in Blob Storage can be accessed through an Azure Storage client library, Azure Storage REST API, Azure Command-Line Interface (CLI), and Azure PowerShell. </p>
 <p>Azure Files allows users to share files in the cloud that are fully managed and can be accessed through the Server Message Block (SMB) protocol (which is the industry standard), Azure Files REST API, and Network File System (NFS) protocol. A benefit of using Azure Files is it allows for the simplification of new cloud development projects and projects can be shared easily and in a timely manner.</p>
 
 **Python Interaction:** 
