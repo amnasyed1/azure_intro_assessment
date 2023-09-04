@@ -23,7 +23,7 @@ Azure App Service and Azure Functions
 <p>Azure App Service is a platform as a service (PaaS) that allows one to build and host web applications, backends for mobile applications, and RESTful APIs by utilizing any programming language such as Python, .NET, and Java. The applications can be run and scaled in Linux and Window environments and it allows for automated deployments from any Git repository, Github and Azure DevOps. </p>
 <p>Azure Functions offers serverless computing, to allow users to write less code to deploy and run their code without managing and maintaining the server. Azure Functions automatically maintains and manages the infrastructure. </p>
 
-**Python Interaction:**'
+**Python Interaction:**
 <p>Azure App Service: I can develop and deploy Python Flask or FastAPI web applications on Azure App Service. To host applications in Azure, first one must create an Azure App Service web app by using Azure portal, Azure Tools extension pack, VS Code, or Azure CLI. After creating an app through, for example, Azure CLI, one can run commands from their Python code to manage their apps and deploy Python code. Through Azure SDK one can manage the resources provided from Azure App Services pertaining to creating or working on their web apps. </p>
 <p>I can create, deploy, and run functions using Python in Azure Functions’ serverless environment utilizing Visual Studio (VS) Code, which would be able to respond to HTTP requests, aiding in creating and building any web applications in the future. </p>
 
