@@ -39,4 +39,4 @@ Azure Database for PostgreSQL
 
 **Python Interaction:**
 <p>Python can be used to connect and query in the Flexible Server for Azure Database for MySQL. After connecting Python to the server, one can easily manipulate data by using SQL statements to query, update, insert and delete data in the respective database. </p>
-<p>Similar to Azure Database for MySQL, Python can be utilized to connect and query data in the Flexible Server for Azure Database for PostgreSQL. In Python, one must install python libraries for PostgreSQL, psycopg2, to connect, query data, and perform database operations. /p>
+<p>Similar to Azure Database for MySQL, Python can be utilized to connect and query data in the Flexible Server for Azure Database for PostgreSQL. In Python, one must install python libraries for PostgreSQL, psycopg2, to connect, query data, and perform database operations. </p>
